@@ -1,6 +1,7 @@
 /**
- * A = []
- * n = integer
+ * @usage Sorts an input array A from low to high.
+ * @param A []
+ * @param n integer
  */
 function selectionSort(A, n){
   var i, j, small, temp;
